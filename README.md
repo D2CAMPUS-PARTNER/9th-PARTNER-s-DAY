@@ -1,0 +1,2 @@
+# 9th-PARTNER-s-DAY
+아홉번째 D2 CAMPUS PARTNER 모임
