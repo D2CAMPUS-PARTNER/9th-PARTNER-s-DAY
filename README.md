@@ -26,6 +26,8 @@
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
 ISTeam | 모바일 앱, 웹 서비스 개발 | http://isteam.dev
+KOSMOS | 안드로이드 앱 개발 | 
+POSCAT | 알고리즘 | poscat.kr
 
 ### 문의
 naver_d2@naver.com
