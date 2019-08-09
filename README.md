@@ -29,6 +29,8 @@ ISTeam | 모바일 앱, 웹 서비스 개발 | http://isteam.dev
 KOSMOS | 안드로이드 앱 개발 | 
 POSCAT | 알고리즘 | https://www.poscat.kr
 KUICS | 정보보안 | https://kuics.korea.ac.kr/
+Guardian | 보안연구 | http://guardian.snucse.org/
+ChAOS | 알고리즘 | https://cauchaos.github.io/
 
 ### 문의
 naver_d2@naver.com
