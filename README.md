@@ -31,4 +31,17 @@ POSCAT | 알고리즘 | https://www.poscat.kr
 KUICS | 정보보안 | https://kuics.korea.ac.kr/
 Guardian | 보안연구 | http://guardian.snucse.org/
 ChAOS | 알고리즘 | https://cauchaos.github.io/
+SOPT | 안드로이드, iOS 앱 개발 | http://sopt.org
+NEXTERS | Web, 서버, 안드로이드, iOS 앱 서비스 개발 | https://www.facebook.com/Nexterspage/
+YAPP | IT 프로젝트동아리 | http://yapp.co.kr/
+Whois | 정보보안 | https://www.facebook.com/ajouwhois/?ref=br_rs 
+YBIGTA | 빅데이터 | http://ybigta.com/
+쿠러그 | IT 동아리 | https://KHLUG.org
+모르고리즘 | 알고리즘 | https://www.acmicpc.net/category/detail/2024
+RUN | 알고리즘 | https://kaist.run
+와플스튜디오 | 웹/앱 서비스 | https://www.facebook.com/wafflestudio
 PLUS | 정보보안 | https://plus.or.kr
+ALOHA | 알고리즘 | https://aloha.hanyang.ac.kr
+SPARCS |IT 서비스 개발 | https://sparcs.org/
+KWEB | 웹 서비스 개발 
+
