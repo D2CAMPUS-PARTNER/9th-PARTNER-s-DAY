@@ -44,5 +44,5 @@ ToBig's | 빅데이터/인공지능 | www.datamarket.kr
 ALPS | 알고리즘 | 
 SCCC | 알고리즘 | https://sccc.kr
 GoN | 정보보안 | ttp://gon.kaist.ac.kr/
-
+SSG | 정보보안 | ssg.sejong.ac.kr
 
